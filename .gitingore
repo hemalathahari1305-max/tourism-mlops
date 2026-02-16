@@ -1,0 +1,12 @@
+!.github/
+!.github/**
+
+!app/
+!app/**
+
+!model_building/
+!model_building/**
+
+!tests/
+!tests/**
+
